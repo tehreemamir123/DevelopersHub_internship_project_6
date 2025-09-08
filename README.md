@@ -1,10 +1,5 @@
 
-
 # ✅ To-Do List App
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_6/9ede00961f6b0d0a73dc37bf567616b7e95779d3/WhatsApp%20Image%202025-09-08%20at%2012.35.57_b5ffb433.jpg" width="800"/>
-</p>
 
 <img src="https://img.icons8.com/color/96/000000/todo-list.png" width="100" />
 
@@ -73,8 +68,8 @@ Example usage in `splash_screen.dart`:
 ```dart
 Lottie.asset(
   'assets/animation/todo.json',
-  width: 200,
-  height: 200,
+  width: 250,
+  height: 250,
   fit: BoxFit.contain,
 );
 ```
@@ -125,5 +120,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ✨ Built with ❤️ using **Flutter**
-
 
