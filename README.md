@@ -1,9 +1,3 @@
-Perfect 👌 Let’s make a **professional GitHub README** for your **To-Do List App**.
-I’ll explain everything about **state management (Provider & BLoC)**, **Lottie animation (assets)**, and app features in a clean and attractive format.
-
-Here’s your README.md 👇
-
----
 
 # ✅ To-Do List App
 
@@ -106,9 +100,9 @@ flutter run
 
 ## 📸 Screenshots
 
-| Splash Screen                                                              | Home Screen                                                              | Task List                                                                     |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| <img src="https://img.icons8.com/fluency/96/null/launch.png" width="150"/> | <img src="https://img.icons8.com/fluency/96/null/home.png" width="150"/> | <img src="https://img.icons8.com/fluency/96/null/checklist.png" width="150"/> |
+| Splash Screen                                                                                                                                                                                                    | Home Screen                                                              | Task List                                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_6/4cc10af112266ad96cb127f6a7434df1ece63cf1/WhatsApp%20Image%202025-09-08%20at%2012.29.08_e8354709.jpg" width="200"/> | <img src="https://img.icons8.com/fluency/96/null/home.png" width="150"/> | <img src="https://img.icons8.com/fluency/96/null/checklist.png" width="150"/> |
 
 ---
 
@@ -129,4 +123,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-Do you want me to also **add usage examples** showing how tasks are managed with **Provider** and **BLoC** (code snippets inside README), taake log samajh saken ke app state management kaise handle karta hai?
+
