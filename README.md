@@ -68,8 +68,8 @@ Example usage in `splash_screen.dart`:
 ```dart
 Lottie.asset(
   'assets/animation/todo.json',
-  width: 200,
-  height: 200,
+  width: 250,
+  height: 250,
   fit: BoxFit.contain,
 );
 ```
