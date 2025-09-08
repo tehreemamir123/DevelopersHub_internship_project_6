@@ -81,7 +81,7 @@ Lottie.asset(
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/to_do_list_app.git
+git clone https://github.com/tehreemamir123/to_do_list_app.git
 ```
 
 ### 2️⃣ Install Dependencies
