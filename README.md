@@ -100,9 +100,9 @@ flutter run
 
 ## 📸 Screenshots
 
-| Splash Screen                                                                                                                                                                                                    | Home Screen                                                              | Task List                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_6/4cc10af112266ad96cb127f6a7434df1ece63cf1/WhatsApp%20Image%202025-09-08%20at%2012.29.08_e8354709.jpg" width="200"/> | <img src="https://img.icons8.com/fluency/96/null/home.png" width="150"/> | <img src="https://img.icons8.com/fluency/96/null/checklist.png" width="150"/> |
+| Splash Screen                                                                                                                                                                                                    | Home Screen                                                                                                                                                                                                      | Task List                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_6/4cc10af112266ad96cb127f6a7434df1ece63cf1/WhatsApp%20Image%202025-09-08%20at%2012.29.08_e8354709.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_6/9ede00961f6b0d0a73dc37bf567616b7e95779d3/WhatsApp%20Image%202025-09-08%20at%2012.35.57_b5ffb433.jpg" width="200"/> | <img src="https://raw.githubusercontent.com/tehreemamir123/DevelopersHub_internship_project_6/9ede00961f6b0d0a73dc37bf567616b7e95779d3/WhatsApp%20Image%202025-09-08%20at%2012.35.56_d26c5ad7.jpg" width="200"/> |
 
 ---
 
@@ -120,7 +120,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 ✨ Built with ❤️ using **Flutter**
-
----
 
 
